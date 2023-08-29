@@ -1,0 +1,3 @@
+F:/stm32h7program/2023.H_final/lvgl/cmake-build-debug/CMakeFiles/lvgl.elf.dir
+F:/stm32h7program/2023.H_final/lvgl/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/stm32h7program/2023.H_final/lvgl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

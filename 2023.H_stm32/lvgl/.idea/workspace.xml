@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lvgl" targetName="lvgl.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9667cc5b-9f30-4fdd-8a53-afa846741bc5" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="2HrhFsfITJUO7bWrkbASdfcX1FY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2014.E/lvgl" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\stm32h7program\2023.H_final\lvgl\GUI_app\Demo2023H" />
+      <recent name="F:\stm32h7program\2023.H_final\lvgl\GUI_app\Demo2023_H" />
+      <recent name="F:\stm32h7program\DIANSHE\lvgl\GUI_app\Demo2023H" />
+      <recent name="F:\stm32h7program\DIANSHE\lvgl\Core\User\PID" />
+      <recent name="F:\stm32h7program\DIANSHE\lvgl\Core\User" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\stm32h7program\DIANSHE\lvgl\Core\User\PID" />
+      <recent name="F:\stm32h7program\lvgl\GUI_app\TEST" />
+      <recent name="F:\stm32h7program\lvgl\GUI_app" />
+      <recent name="F:\stm32h7program\lvgl\GUI\lvgl_core" />
+      <recent name="F:\stm32h7program\lvgl\GUI\lvgl_core\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD lvgl">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lvgl.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lvgl" TARGET_NAME="lvgl.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lvgl" RUN_TARGET_NAME="lvgl.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.lvgl.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD lvgl" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9667cc5b-9f30-4fdd-8a53-afa846741bc5" name="变更" comment="" />
+      <created>1669049008850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669049008850</updated>
+      <workItem from="1669049021134" duration="4326000" />
+      <workItem from="1669101901508" duration="1306000" />
+      <workItem from="1669111988293" duration="396000" />
+      <workItem from="1670307845055" duration="10521000" />
+      <workItem from="1670495184556" duration="4716000" />
+      <workItem from="1670567669656" duration="4647000" />
+      <workItem from="1670593121986" duration="855000" />
+      <workItem from="1671365997035" duration="5000" />
+      <workItem from="1671856073528" duration="11580000" />
+      <workItem from="1671872839646" duration="1203000" />
+      <workItem from="1671940370732" duration="12062000" />
+      <workItem from="1672236915314" duration="1156000" />
+      <workItem from="1672575479469" duration="14000" />
+      <workItem from="1678181820014" duration="337000" />
+      <workItem from="1678690129996" duration="127000" />
+      <workItem from="1678690604439" duration="5486000" />
+      <workItem from="1678704181266" duration="288000" />
+      <workItem from="1678773750201" duration="144000" />
+      <workItem from="1678774875178" duration="9671000" />
+      <workItem from="1678857887102" duration="4371000" />
+      <workItem from="1678864622597" duration="7139000" />
+      <workItem from="1678888474462" duration="1702000" />
+      <workItem from="1679051305096" duration="8561000" />
+      <workItem from="1679206538801" duration="12220000" />
+      <workItem from="1679373618169" duration="696000" />
+      <workItem from="1679374998775" duration="2592000" />
+      <workItem from="1679388053018" duration="5821000" />
+      <workItem from="1679490405916" duration="4803000" />
+      <workItem from="1679566410598" duration="4397000" />
+      <workItem from="1679573635081" duration="13267000" />
+      <workItem from="1679659464308" duration="1198000" />
+      <workItem from="1679815822738" duration="1007000" />
+      <workItem from="1679989722288" duration="134000" />
+      <workItem from="1679995086562" duration="3000" />
+      <workItem from="1679995197833" duration="691000" />
+      <workItem from="1680087981338" duration="2505000" />
+      <workItem from="1680593533574" duration="75000" />
+      <workItem from="1680593902631" duration="1474000" />
+      <workItem from="1680678602967" duration="220000" />
+      <workItem from="1680680919671" duration="602000" />
+      <workItem from="1680769342741" duration="89000" />
+      <workItem from="1680769446245" duration="1839000" />
+      <workItem from="1680777613814" duration="18000" />
+      <workItem from="1680778938505" duration="2000" />
+      <workItem from="1680786263142" duration="603000" />
+      <workItem from="1680787855170" duration="605000" />
+      <workItem from="1680858015375" duration="2352000" />
+      <workItem from="1681026707933" duration="619000" />
+      <workItem from="1681038611255" duration="1004000" />
+      <workItem from="1681039674902" duration="74000" />
+      <workItem from="1681039759862" duration="31000" />
+      <workItem from="1681116244729" duration="1162000" />
+      <workItem from="1681197857210" duration="40000" />
+      <workItem from="1681304397058" duration="2106000" />
+      <workItem from="1681456632777" duration="2985000" />
+      <workItem from="1681720531567" duration="610000" />
+      <workItem from="1682078942834" duration="40000" />
+      <workItem from="1682090973571" duration="28000" />
+      <workItem from="1682410359908" duration="39000" />
+      <workItem from="1682431792133" duration="2000" />
+      <workItem from="1683537615482" duration="9000" />
+      <workItem from="1683725647700" duration="158000" />
+      <workItem from="1683954145288" duration="521000" />
+      <workItem from="1683955135117" duration="676000" />
+      <workItem from="1685252578123" duration="1883000" />
+      <workItem from="1685434393121" duration="2265000" />
+      <workItem from="1685602879716" duration="1973000" />
+      <workItem from="1686227691655" duration="686000" />
+      <workItem from="1686294643447" duration="32000" />
+      <workItem from="1686304918062" duration="586000" />
+      <workItem from="1686314522686" duration="148000" />
+      <workItem from="1686317586394" duration="818000" />
+      <workItem from="1686378388992" duration="740000" />
+      <workItem from="1687767924764" duration="456000" />
+      <workItem from="1688191067359" duration="10000" />
+      <workItem from="1688199370703" duration="6272000" />
+      <workItem from="1688214623365" duration="25000" />
+      <workItem from="1689468811432" duration="9868000" />
+      <workItem from="1689554738229" duration="360000" />
+      <workItem from="1689555175362" duration="14697000" />
+      <workItem from="1689578210291" duration="10787000" />
+      <workItem from="1689641939124" duration="5885000" />
+      <workItem from="1689650468250" duration="2588000" />
+      <workItem from="1689659660527" duration="627000" />
+      <workItem from="1689727416461" duration="40000" />
+      <workItem from="1689734025417" duration="1806000" />
+      <workItem from="1689813418445" duration="603000" />
+      <workItem from="1689940017120" duration="3154000" />
+      <workItem from="1689997252350" duration="1477000" />
+      <workItem from="1690075365680" duration="2523000" />
+      <workItem from="1690288013001" duration="15000" />
+      <workItem from="1690337999625" duration="9000" />
+      <workItem from="1690353358898" duration="17000" />
+      <workItem from="1690633649783" duration="2094000" />
+      <workItem from="1690696259174" duration="40000" />
+      <workItem from="1690958431491" duration="20390000" />
+      <workItem from="1691017103041" duration="25525000" />
+      <workItem from="1691053383477" duration="8408000" />
+      <workItem from="1691067660632" duration="7209000" />
+      <workItem from="1691083398599" duration="6000" />
+      <workItem from="1691083439674" duration="81000" />
+      <workItem from="1691105820452" duration="6397000" />
+      <workItem from="1691113789435" duration="16505000" />
+      <workItem from="1691158695002" duration="4250000" />
+      <workItem from="1691166771532" duration="3303000" />
+      <workItem from="1691170719274" duration="12785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Core/User/AD9910/ad9910.c</url>
+          <line>91</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Core/Src/adc.c</url>
+          <line>289</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/GUI_app/Demo2022X/events_init.c</url>
+          <line>78</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/GUI_app/Demo2022X/events_init.c</url>
+          <line>30</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Core/Src/main.c</url>
+          <line>495</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="Fre" />
+        <watch expression="apfft_inputbuf" />
+        <watch expression="data_in1" />
+        <watch expression="data_in2" />
+        <watch expression="apfft_inputbuf[i]" />
+        <watch expression="y1a" />
+        <watch expression="apfft_inputbuf1" />
+        <watch expression="Location" />
+        <watch expression="loc[Location]" />
+        <watch expression="*Fre1" />
+        <watch expression="fft_inputbuf" />
+        <watch expression="fft_outputbuf" />
+        <watch expression="max1" />
+        <watch expression="data_out[4]" />
+        <watch expression="loc[Num]" />
+        <watch expression="amp[Num] " />
+        <watch expression="start_flag2" />
+        <watch expression="amp_flag" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
