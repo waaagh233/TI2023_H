@@ -1,0 +1,281 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "fifo_full",
+					"strict" : false
+				},
+				{
+					"name" : "AD_clk",
+					"strict" : false
+				},
+				{
+					"name" : "MISO",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[8]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[9]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[10]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[11]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[12]",
+					"strict" : false
+				},
+				{
+					"name" : "dds_o2[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DA_clk1",
+					"strict" : false
+				},
+				{
+					"name" : "DA_clk2",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[8]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[9]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[10]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_data[11]",
+					"strict" : false
+				},
+				{
+					"name" : "fifo_po_flag",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "mode1",
+					"strict" : false
+				},
+				{
+					"name" : "A_J",
+					"strict" : false
+				},
+				{
+					"name" : "mode2",
+					"strict" : false
+				},
+				{
+					"name" : "hyper_mode",
+					"strict" : false
+				},
+				{
+					"name" : "CS_N",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "refresh",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[8]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[9]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[10]",
+					"strict" : false
+				},
+				{
+					"name" : "data_in[11]",
+					"strict" : false
+				},
+				{
+					"name" : "SPI_SCK",
+					"strict" : false
+				},
+				{
+					"name" : "MOSI",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
